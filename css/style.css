@@ -1,0 +1,155 @@
+.header{
+	min-height: 100px;
+	font-size: 50px;
+	background-color: darkred;
+	text-align: center;
+}
+.container{
+	overflow: hidden;
+}
+.contact{
+	float: left;
+	width: 60%;
+	min-height:500px ;
+	background-color: #1b538e;
+}
+.blog1{
+	float: right;
+    width: 40%;
+    min-height: 250px;
+    background-color: #00800094;
+}
+.blog2{ 
+	float: right;
+	width: 40%;
+	min-height: 250px;
+	background-color: grey;
+}
+.footer{
+	min-height: 100px;
+	font-size: 50px;
+	background-color: blueviolet;
+    text-align: center;
+}
+.link{ font-size: 30px; }
+.header1{
+	min-height: 100px;
+	background-color: coral;
+	text-align: center;
+	font-size: 50px;
+}
+.container{overflow: hidden;}
+.content1{
+	float: left;
+	width: 60%;
+	min-height: 500px;
+	background-color: yellow;
+
+}
+.blog3{
+	float: left;
+	width: 40%;
+	min-height: 166.67px;
+	background-color: green;
+}
+.blog4{
+	float: right;
+	width: 40%;
+	min-height: 166.67px;
+	background-color: skyblue;
+}
+.blog5{
+	float: right;
+	width: 40%;
+	min-height: 166.67px;
+	background-color: darkviolet;
+}
+.port{
+	width: 100%;
+	min-height: 80px;
+	background-color: #878a81;
+}
+.footer1{
+	width: 100%;
+	min-height: 70px;
+	background-color: #04274a;
+}
+.link2{
+	font-size: 30px;
+}
+.header2{
+    min-height: 100px;
+    background-color:#00b7ff;
+}
+.wrapper{ overflow: hidden; }
+.content3{
+	float: right;
+	width: 30%;
+	min-height: 1000px;
+	background-color: blueviolet;
+}
+.card{
+	float: left;
+	width: 70%;
+	min-height: 250px;
+	background-color: khaki;
+}
+.card1{
+	float: left;
+	width: 70%;
+	min-height: 250px;
+	background-color: bisque;
+}
+.card2{
+	float: left;
+	width: 70%;
+	min-height: 250px;
+	background-color: silver;
+}
+.card3{
+	float: left;
+	width: 70%;
+	min-height: 250px;
+	background-color: orange;
+}
+.about{
+	min-height: 100px;
+	background-color: #17a43a;
+}
+.footer3{
+	min-height: 100px;
+	background-color: darkgray;
+}
+.link3{font-size: 30px;}
+.header3{
+	min-height: 100px;
+	background-color: brown;
+}
+.wrapper{overflow: hidden;}
+.single{
+	width: 35%;
+	min-height: 200px;
+}
+.row{
+	background-color: violet;
+}
+.row1{
+	background-color: lightcoral;
+}
+.row2{
+	background-color: peachpuff;
+	
+}
+.single1{ 
+	float: right;
+	width: 65%;
+	min-height: 300px;
+}
+.row5{
+	float: right;
+	background-color: midnightblue;
+}
+.row6{
+    float: right;
+	background-color: turquoise;
+}
